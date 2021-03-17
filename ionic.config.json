@@ -1,0 +1,7 @@
+{
+  "name": "Jecelle_Act2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
